@@ -26,8 +26,8 @@ const Color primaryColor =  Color(0xffffffff);
 const Color primaryVariant = Color(0xff393E46);
 // color explanation will come here
 const Color onPrimary = Color(0xff222831);
-// color explanation will come here
-const Color secondaryColor = Color(0xff008c95);
+// secondary background color for app
+const Color secondaryColor = Color(0xff71B6C4);
 // color explanation will come here
 const Color onSecondary = Color(0xffec6660);
 // color explanation will come here
