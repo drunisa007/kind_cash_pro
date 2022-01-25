@@ -12,6 +12,7 @@ class HomePage extends StatelessWidget {
     mSizeConfig.init(context);
     
     return Scaffold(
+      
       appBar: AppBar(
         title: const Text('Home'),
       ),
